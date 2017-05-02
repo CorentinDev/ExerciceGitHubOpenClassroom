@@ -4,3 +4,6 @@ var afficherMessageBienvenue = function(){
    alert("Hello World");
    
 }
+
+// Execution de la methode 
+afficherMessageBienvenue();
